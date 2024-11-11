@@ -30,9 +30,8 @@
 ## GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaomingX/XiaomingX/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaomingX/XiaomingX/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/XiaomingX/XiaomingX/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/XiaomingX/XiaomingX/blob/main/output/github-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/XiaomingX/XiaomingX/blob/main/output/github-snake-dark.svg" />
 </picture>
 
 ### 🏆 Achievements
