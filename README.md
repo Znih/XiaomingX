@@ -27,6 +27,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XiaomingX&theme=radical)](https://git.io/streak-stats)
 
+## GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaomingX/XiaomingX/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaomingX/XiaomingX/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/XiaomingX/XiaomingX/output/github-snake.svg" />
+</picture>
+
 ### 🏆 Achievements
 
 - 🌟 Contributed to **5+ major open-source projects**.
