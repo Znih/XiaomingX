@@ -1,7 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=XiaomingX&show_icons=true&theme=gruvbox&count_private=true" alt="xiaomingx's GitHub stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XiaomingX&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages" style="max-width: 300px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
   </div>
 
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
