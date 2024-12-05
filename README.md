@@ -2,6 +2,7 @@
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=XiaomingX&show_icons=true&theme=gruvbox&count_private=true" alt="xiaomingx's GitHub stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"/>
   </div>
+  [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
