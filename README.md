@@ -15,6 +15,10 @@
     <img src="https://github.com/Znih/XiaomingX/blob/551793bb446888a2df6be529bb9a3802ddba38b3/output/github-snake-dark.svg" />
 </a>
 
+<a href="https://github.com/Znih">
+    <img src="https://github.com/Znih/XiaomingX/blob/315b265f6f081e9104f18365412cedaab4110e99/output/github-snake.svg" />
+</a>
+
 
 
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
