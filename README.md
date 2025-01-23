@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/Znih">
-    <img src="https://github.com/Znih/XiaomingX/commit/89b4cbbde3733e3fc3260d9a9414aec7f5863a19#diff-fcb3a35efe99b0a4674e8ea7d4a3c9943735e0e0ff6d175a966bffc7524d3a5c" />
+    <img src="https://github.com/Znih/XiaomingX/blob/551793bb446888a2df6be529bb9a3802ddba38b3/output/github-snake-dark.svg" />
 </a>
 
 
