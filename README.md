@@ -12,32 +12,10 @@
 </a>
 
 <a href="https://github.com/Znih">
-    <img src="https://github.com/Znih/XiaomingX/blob/551793bb446888a2df6be529bb9a3802ddba38b3/output/github-snake-dark.svg" />
+    <img src="https://github.com/Znih/XiaomingX/tree/main/output/github-snake-dark.svg" />
 </a>
 
 <a href="https://github.com/Znih">
-    <img src="https://github.com/Znih/XiaomingX/blob/315b265f6f081e9104f18365412cedaab4110e99/output/github-snake.svg" />
+    <img src="https://github.com/Znih/XiaomingX/tree/main/output/github-snake.svg" />
 </a>
 
-
-
-  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
-  <div style="text-align: center;">
-    <h2>👋 Über mich</h2>
-
-  </div>
-  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
-
-
-<!-- Nur für Testzwecke. Kopiere diese Zeilen nicht in echte Projekte! -->
-
-<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
-<!--<script src="assets/js/ie-emulation-modes-warning.js"></script>-->
-
-<!-- Unterstützung für Media Queries und HTML5-Elemente in IE8 über HTML5 shim und Respond.js -->
-
-<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
