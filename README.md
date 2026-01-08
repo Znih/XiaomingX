@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/Znih">
-    <img src="https://github.com/Znih/XiaomingX/tree/main/output/github-snake-dark.svg" />
+    <img src="https://github.com/Znih/XiaomingX/blob/main/output%2Fgithub-snake-dark.svg" />
 </a>
 
 <a href="https://github.com/Znih">
