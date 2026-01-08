@@ -16,6 +16,6 @@
 </a>
 
 <a href="https://github.com/Znih">
-    <img src="https://github.com/Znih/XiaomingX/tree/main/output/github-snake.svg" />
+    <img src="https://github.com/Znih/XiaomingX/blob/main/output%2Fgithub-snake.svg" />
 </a>
 
